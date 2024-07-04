@@ -2,7 +2,7 @@
 Update name and job of the employee who has employee no of 100.
 */
 update emp
-set ename= 'RAJ', job= "CLERK'
+set ename= 'RAJ', job= 'CLERK'
 where empno=100;
 
 /*
